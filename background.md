@@ -208,5 +208,5 @@ In addition to these, other commands exclusive to Mininet-WiFi can be used for a
 
 These commands allow you to scan WiFi networks and connect to one of them, respectively. Scripts such as _iw_, the command used above, are natively supported by most Linux operating systems and have not been ported or modified to work on Mininet-WiFi. Mininet-WiFi can execute any command and/or program that runs on Linux distributions, such as Ubuntu.
 
-- Ramon dos Reis Fontes, Samira Afzal, Samuel Brito, Mateus Santos, Christian Esteve Rothenberg. _Mininet-WiFi: Emulating Software-Defined Wireless Networks.} In 2nd International Workshop on Management of SDN and NFV Systems 2015. Barcelona, Spain, Nov. 2015. cite{7367387}
-- Ramon dos Reis Fontes, _Mininet-WiFi: Emulation Platform for Software-Defined Wireless Networks}. Tese de Doutorado em Engenharia Elétrica,  FEEC/UNICAMP, Jun. 2018. Available at: \url{http://repositorio.unicamp.br/jspui/bitstream/REPOSIP/332708/1/Fontes_RamonDosReis\_D.pdf}
+- Ramon dos Reis Fontes, Samira Afzal, Samuel Brito, Mateus Santos, Christian Esteve Rothenberg. Mininet-WiFi: Emulating Software-Defined Wireless Networks. In 2nd International Workshop on Management of SDN and NFV Systems 2015. Barcelona, Spain, Nov. 2015. https://doi.org/10.1109/CNSM.2015.7367387
+- Ramon dos Reis Fontes, Mininet-WiFi: Emulation Platform for Software-Defined Wireless Networks}. Tese de Doutorado em Engenharia Elétrica,  FEEC/UNICAMP, Jun. 2018. Available at: https://doi.org/10.47749/T/UNICAMP.2018.1051315
